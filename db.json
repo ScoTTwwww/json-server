@@ -1,0 +1,84 @@
+{
+  "posts":[
+    {
+      "id" : 0,
+      "title": "First post!",
+      "content" : "My first content!"
+    }
+  ],
+  "comments" : [
+    {
+      "id": 0,
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ],
+  "users": [
+    {
+      "userId": "sdasd21",
+      "password": "1",
+      "email": "12",
+      "type": null,
+      "nickname": "212",
+      "id": 1
+    },
+    {
+      "userId": "sdasd21",
+      "password": "1",
+      "email": "12",
+      "type": null,
+      "nickname": "212",
+      "id": 2
+    },
+    {
+      "userId": "sdasd21",
+      "password": "1",
+      "email": "12",
+      "type": null,
+      "nickname": "212",
+      "id": 3
+    }
+  ],
+  "place" : [
+    {
+      "id": 1,
+      "name": "貓侍CatPool-社團法人台灣流浪貓關懷協會",
+      "address": "新北市中和區"
+    },
+    {
+      "id": 2,
+      "name": "台灣流浪兔保護協會",
+      "address": "新北市中和區"
+    },
+    {
+      "id": 3,
+      "name": "台灣動物緊急救援小組（台灣貓狗聯合勸募平台）",
+      "address": "台中市"
+    },
+    {
+      "id": 4,
+      "name": "台灣動物不再流浪協會",
+      "address": "新北市鶯歌區"
+    },
+    {
+      "id": 5,
+      "name": "幸福狗流浪中途",
+      "address": "苑裡鎮苗栗縣"
+    },
+    {
+      "id": 6,
+      "name": "台灣咪可思關懷流浪動物協會",
+      "address": "新北市鶯歌區"
+    },
+    {
+      "id": 7,
+      "name": "台灣動物不再流浪協會",
+      "address": "新北市三重區"
+    },
+    {
+      "id": 8,
+      "name": "台灣咪可思關懷流浪動物協會",
+      "address": "新北市鶯歌區"
+    }
+  ]
+}
