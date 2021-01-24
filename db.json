@@ -221,6 +221,7 @@
       "id": 1 ,
       "name": "妹妹",
       "age": 8,
+      "place": 1,
       "live": "台中",
       "image": "https://g.udn.com.tw/community/img/PSN_PHOTO/lotos802/f_5596600_1.jpg"
     },
@@ -228,6 +229,7 @@
       "id": 2 ,
       "name": "八公",
       "age": 8,
+      "place": 1,
       "live": "台中",
       "image": "https://farm2.static.flickr.com/1376/981053219_a5c04aefd9_o.jpg"
     },
@@ -235,6 +237,7 @@
       "id": 3,
       "name": "總裁",
       "age": 2,
+      "place": 1,
       "live": "台北區",
       "image": "https://cdn2.ettoday.net/images/851/d851616.jpg"
     },
@@ -242,6 +245,7 @@
       "id": 4,
       "name": "黑鬼東",
       "age": 8,
+      "place": 1,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -249,6 +253,7 @@
       "id": 5,
       "name": "黑鬼東",
       "age": 8,
+      "place": 1,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -256,6 +261,7 @@
       "id": 6,
       "name": "黑鬼東",
       "age": 8,
+      "place": 1,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -263,6 +269,7 @@
       "id": 7,
       "name": "黑鬼東",
       "age": 8,
+      "place": 1,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -270,6 +277,7 @@
       "id": 8,
       "name": "黑鬼東",
       "age": 8,
+      "place": 2,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -277,6 +285,7 @@
       "id": 9,
       "name": "黑鬼東",
       "age": 8,
+      "place": 2,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -284,6 +293,7 @@
       "id": 10,
       "name": "黑鬼東",
       "age": 8,
+      "place": 2,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -291,6 +301,7 @@
       "id": 11,
       "name": "黑鬼東",
       "age": 8,
+      "place": 2,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -298,6 +309,7 @@
       "id": 12,
       "name": "黑鬼東",
       "age": 8,
+      "place": 2,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -305,6 +317,7 @@
       "id": 13,
       "name": "黑鬼東",
       "age": 8,
+      "place": 2,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -312,6 +325,7 @@
       "id": 14,
       "name": "黑鬼東",
       "age": 8,
+      "place": 3,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -319,6 +333,7 @@
       "id": 15,
       "name": "黑鬼東",
       "age": 8,
+      "place": 3,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -326,6 +341,7 @@
       "id": 16,
       "name": "黑鬼東",
       "age": 8,
+      "place": 3,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -333,6 +349,7 @@
       "id": 17,
       "name": "黑鬼東",
       "age": 8,
+      "place": 3,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -340,6 +357,7 @@
       "id": 18,
       "name": "黑鬼東",
       "age": 8,
+      "place": 4,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -347,6 +365,7 @@
       "id": 19,
       "name": "黑鬼東",
       "age": 8,
+      "place": 5,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -354,6 +373,7 @@
       "id": 20,
       "name": "黑鬼東",
       "age": 8,
+      "place": 5,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -361,6 +381,7 @@
       "id": 21,
       "name": "黑鬼東",
       "age": 8,
+      "place": 5,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     }
