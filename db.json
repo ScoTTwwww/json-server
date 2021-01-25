@@ -1,12 +1,12 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
+      "id": 0,
       "title": "First post!",
-      "content" : "My first content!"
+      "content": "My first content!"
     }
   ],
-  "comments" : [
+  "comments": [
     {
       "id": 0,
       "content": "Wow such content!",
@@ -39,21 +39,21 @@
       "id": 3
     }
   ],
-  "place" : [
+  "place": [
     {
       "id": 1,
       "name": "台灣流浪動物救援協會",
       "address": "新北市中和區",
       "dogs": [
         {
-          "id": 1 ,
+          "id": 1,
           "name": "妹妹",
           "age": 8,
           "live": "台中",
           "image": "https://g.udn.com.tw/community/img/PSN_PHOTO/lotos802/f_5596600_1.jpg"
         },
         {
-          "id": 2 ,
+          "id": 2,
           "name": "八公",
           "age": 8,
           "live": "台中",
@@ -218,18 +218,20 @@
   ],
   "dogs": [
     {
-      "id": 1 ,
+      "id": 1,
       "name": "妹妹",
       "age": 8,
       "place": 1,
+      "status": 0,
       "live": "台中",
       "image": "https://g.udn.com.tw/community/img/PSN_PHOTO/lotos802/f_5596600_1.jpg"
     },
     {
-      "id": 2 ,
+      "id": 2,
       "name": "八公",
       "age": 8,
       "place": 1,
+      "status": 0,
       "live": "台中",
       "image": "https://farm2.static.flickr.com/1376/981053219_a5c04aefd9_o.jpg"
     },
@@ -238,6 +240,7 @@
       "name": "總裁",
       "age": 2,
       "place": 1,
+      "status": 0,
       "live": "台北區",
       "image": "https://cdn2.ettoday.net/images/851/d851616.jpg"
     },
@@ -246,6 +249,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 1,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -254,6 +258,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 1,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -262,6 +267,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 1,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -270,6 +276,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 1,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -278,6 +285,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 2,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -286,6 +294,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 2,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -294,6 +303,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 2,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -302,6 +312,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 2,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -310,6 +321,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 2,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -318,6 +330,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 2,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -326,6 +339,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 3,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -334,6 +348,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 3,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -342,6 +357,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 3,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -350,6 +366,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 3,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -358,6 +375,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 4,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -366,6 +384,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 5,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -374,6 +393,7 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 5,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
     },
@@ -382,8 +402,107 @@
       "name": "黑鬼東",
       "age": 8,
       "place": 5,
+      "status": 0,
       "live": "台中",
       "image": "https://img.ltn.com.tw/Upload/news/600/2015/12/11/210.jpg"
+    }
+  ],
+  "volunteers": [
+    {
+      "title": "動保系列A講座暨志工",
+      "date": "2021/02/26 18:30 ~ 2021/02/26 21:00",
+      "address": "島嶼艸頭 （台中市中區民權路78號2號)",
+      "totalQuota": 25,
+      "currentQuota": 20,
+      "joinStatus": true,
+      "status": 0,
+    },
+    {
+      "title": "流浪狗散步志工",
+      "date": "2021/02/26 18:30 ~ 2021/02/26 21:00",
+      "address": "台中市大里區",
+      "totalQuota": 25,
+      "currentQuota": 25,
+      "joinStatus": true,
+      "status": 1
+    },
+    {
+      "title": "動保打掃志工",
+      "date": "2021/02/26 18:30 ~ 2021/02/26 21:00",
+      "address": "台北信義區",
+      "totalQuota": 25,
+      "currentQuota": 20,
+      "joinStatus": true,
+      "status": 0
+    },
+    {
+      "title": "動保系列A講座暨志工",
+      "date": "2021/02/26 18:30 ~ 2021/02/26 21:00",
+      "address": "島嶼艸頭 （台中市中區民權路78號2號)",
+      "totalQuota": 25,
+      "currentQuota": 4,
+      "joinStatus": true,
+      "status": 2
+    },
+    {
+      "title": "動保系列C講座暨志工",
+      "date": "2021/02/26 18:30 ~ 2021/02/26 21:00",
+      "address": "島嶼艸頭 （台中市中區民權路78號2號)",
+      "totalQuota": 25,
+      "currentQuota": 20,
+      "joinStatus": true,
+      "status": 0
+    }
+  ],
+  "shop" : [
+    {
+      "id": 1,
+      "type": 1,
+      "name": "春聯 年年平安",
+      "amount": 50,
+      "src": "https://link.hotac.org.tw/pic/Se5af3d09df9e1c2263d6ed822fa50e89.jpg"
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "name": "春聯 貓狗大福",
+      "amount": 50,
+      "src": "https://link.hotac.org.tw/pic/S8fa36c4b494f3c90330905e6a75452ce.jpg"
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "name": "紅包袋 花開富貴",
+      "amount": 50,
+      "src": "https://link.hotac.org.tw/pic/S3c5d6f6ddd701a44c8de568257446f9f.jpg"
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "name": "紅包袋 歲歲平安",
+      "amount": 50,
+      "src": "https://link.hotac.org.tw/pic/S9ea234adf363bf396a673b643067aa68.jpg"
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "name": "紅包袋 年年有餘",
+      "amount": 50,
+      "src": "https://link.hotac.org.tw/pic/Sc12141c7aba32201b9140e8dc1471f3c.jpg"
+    },
+    {
+      "id": 6,
+      "type": 2,
+      "name": "票卡夾 (狗狗版)",
+      "amount": 50,
+      "src": "https://link.hotac.org.tw/pic/S1fff9805f5e1493cbf8dedbed16d67be.jpg"
+    },
+    {
+      "id": 7,
+      "type": 2,
+      "name": "票卡夾 (貓貓版)",
+      "amount": 50,
+      "src": "https://link.hotac.org.tw/pic/S1324eb30b23e29247afd070447a83c44.jpg"
     }
   ]
 }
