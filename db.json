@@ -85,7 +85,7 @@
           "placeName_zh_TW": "台灣流浪動物救援協會",
           "placeName_en_US":  "Stray Animal Rescue Association",
           "status": 0,
-          "live": "台北區",
+          "live_zh_TW": "台北區",
           "live_en_US": "Taipei",
           "individuality_zh_TW": "愛撒嬌",
           "individuality_en_US": "Love petite",
@@ -436,7 +436,7 @@
       "placeName_zh_TW": "台灣流浪動物救援協會",
       "placeName_en_US":  "Stray Animal Rescue Association",
       "status": 0,
-      "live": "台北區",
+      "live_zh_TW": "台北區",
       "live_en_US": "Taipei",
       "individuality_zh_TW": "愛撒嬌",
       "individuality_en_US": "Love petite",
@@ -783,7 +783,7 @@
       "id": 2,
       "type": 1,
       "name_zh_TW": "春聯 貓狗大福",
-      "name_en_US": "Spring Festival(2)",
+      "name_en_US": "Spring Festival (2)",
       "amount": 50,
       "src": "https://link.hotac.org.tw/pic/S8fa36c4b494f3c90330905e6a75452ce.jpg"
     },
@@ -801,7 +801,7 @@
       "type": 1,
       "name": "紅包袋 歲歲平安",
       "name_zh_TW": "紅包袋 歲歲平安",
-      "name_en_US": "Red bag(2)",
+      "name_en_US": "Red bag (2)",
       "amount": 50,
       "src": "https://link.hotac.org.tw/pic/S9ea234adf363bf396a673b643067aa68.jpg"
     },
@@ -810,7 +810,7 @@
       "type": 1,
       "name": "紅包袋 年年有餘",
       "name_zh_TW": "紅包袋 年年有餘",
-      "name_en_US": "Red bag(3)",
+      "name_en_US": "Red bag (3)",
       "amount": 50,
       "src": "https://link.hotac.org.tw/pic/Sc12141c7aba32201b9140e8dc1471f3c.jpg"
     },
@@ -828,9 +828,53 @@
       "type": 2,
       "name": "票卡夾 (貓貓版)",
       "name_zh_TW": "票卡夾 (貓貓版)",
-      "name_en_US": "Ticket clip(2)",
+      "name_en_US": "Ticket clip (2)",
       "amount": 50,
       "src": "https://link.hotac.org.tw/pic/S1324eb30b23e29247afd070447a83c44.jpg"
+    }
+  ],
+  "donateMaterial": [
+    {
+      "name_zh_TW": "貓罐頭",
+      "name_en_US": "Can cat",
+      "needCount": 25,
+      "src": "201903201756_397011_s.jpg"
+    },
+    {
+      "name_zh_TW": "看護墊",
+      "name_en_US": "Look at the pads",
+      "needCount": 25,
+      "src": "201904181610_753561_s.jpg"
+    },
+    {
+      "name_zh_TW": "可手撕式封箱膠帶",
+      "name_en_US": "Tape",
+      "needCount": 25,
+      "src": "202003171420_639785_s.jpg"
+    },
+    {
+      "name_zh_TW": "狗罐頭",
+      "name_en_US": "Can of dog",
+      "needCount": 25,
+      "src": "201807191744_201712_s.jpg"
+    },
+    {
+      "name_zh_TW": "擦手紙",
+      "name_en_US": "Toilet paper",
+      "needCount": 25,
+      "src": "201808201415_729375_s.jpg"
+    },
+    {
+      "name_zh_TW": "狗飼料",
+      "name_en_US": "Dog feed",
+      "needCount": 25,
+      "src": "201708221218_475805_s.jpg"
+    },
+    {
+      "name_zh_TW": "蚤不到(滴劑、噴劑皆可)",
+      "name_en_US": "Spray",
+      "needCount": 25,
+      "src": "201812061626_378098_s.jpg"
     }
   ]
 }
